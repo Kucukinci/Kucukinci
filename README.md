@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**Kucukinci/Kucukinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="background-color: powderblue;">
+<p style="color: blue;">
+# My GitHub Profile
+</p>
+<p>
+Hello! I am a software developer with experience in various programming languages such as C++, Python, and JavaScript.
+</p>
 
-Here are some ideas to get you started:
+<p style="color: blue;">
+## Skills
+</p>
+<ul>
+  <li style="color: purple;">C++</li>
+  <li style="color: purple;">Python</li>
+  <li style="color: purple;">JavaScript</li>
+  <li style="color: purple;">Git</li>
+  <li style="color: purple;">HTML/CSS</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="color: blue;">
+## Projects
+</p>
+- [<a style="color: green;">Project 1</a>](https://github.com/username/project1)
+- [<a style="color: green;">Project 2</a>](https://github.com/username/project2)
+
+<p style="color: blue;">
+## Education
+</p>
+- B.S. in Computer Science from XYZ University
+
+<p style="color: blue;">
+## Contact
+</p>
+- Email: <a style="color: red;">me@example.com</a>
+- LinkedIn: [<a style="color: red;">LinkedIn Profile</a>](https://www.linkedin.com/in/username/)
+</div>
