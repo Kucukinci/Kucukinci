@@ -85,6 +85,14 @@
     <a>
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white">
     </a>
+    <a>
+    <img alt="PyTorch" src="[https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)">
+    </a>
+     <a>
+    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)">
+    </a>    
+    
+    
 
     
 </p>
@@ -134,9 +142,7 @@
     <a>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     </a>    
-    <a>
-    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)">
-    </a>    
+   
     
 
 </br>    
