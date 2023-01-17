@@ -1,21 +1,171 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ahmet Sait Kucukinci</h1>
-<h3 align="center">Data Scientist from Turkey</h3>
+<div align="center">
+<img width="70%" height="400px" src="https://njbmagazine.com/wp-content/uploads/2021/06/Data_301985997-775x500.gif" />
+</div>
+<br>
 
-- 🌱 I’m currently learning **deep learning**
-
-- 👨‍💻 All of my projects are available at [https://kucukinci.github.io/ahmetsaitkucukinci.github.io/](https://kucukinci.github.io/ahmetsaitkucukinci.github.io/)
-
-- 📄 Know about my experiences [https://kucukinci.github.io/ahmetsaitkucukinci.github.io/](https://kucukinci.github.io/ahmetsaitkucukinci.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmet-sait-küçükinci-3626171b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-sait-küçükinci-3626171b6" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmetsaitkkinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmetsaitkkinci" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmetsaitkucukinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmetsaitkucukinci" height="30" width="40" /></a>
+<h1>
+<p align="center">Hi there, I'm Ugur Selim
+<a href="https://rahulmahesh.me/">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
+
+## About Me
+
+
+• I graduated from the Department of Industrial Engineering and have been actively developing my skills in the field of Artificial Intelligence for the past 1.5 years. Through various training programs and hands-on experience in various projects, I have gained a solid understanding of AI concepts and technologies. I had an internship experience in the Artificial Intelligence team at Vakıfbank R&D unit, where I was able to apply my knowledge and learn from experienced professionals. My goal is to work in companies that develop new products in the field of Artificial Intelligence, and to eventually contribute to the development of new products in the industry, by utilizing my knowledge and experience in Artificial Intelligence and Industrial Engineering specifically in Supply Chain Management, Operational Research and Production Scheduling. I am continuously working to improve my skills and stay updated on the latest developments in AI.
+
+
+
+### To summarize briefly myself ;
+
+
+- 🔭 I’m currently working on Data Analytics and Engineering , Machine Learning 
+- 🌱 I’m currently learning BigQuery , Python Streamlit , Linux/Shell/Bash Scripting and Cloud Technologies.
+- 💬 Ask me about anything , I will be happy if I can solve your problem but especially Python , SQL domain of Data Analytics technologies.
+- 📫 How to reach me: ahmetsaitkucukinci@gmail.com
+- 😄 Pronouns: Data Scientist, Machine Learning Engineer
+- 💻 My website: https://kucukinci.github.io/ahmetsaitkucukinci.github.io/
+- ⚡ Fun fact: Fitness , Reading , Football and Formual 1
+
+
+</br>
+
+
+</br>
+<h2>🛠️ SKILLS &  MY FAVORITE TOOLS
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+</br>
+</h2>
+
+---
+
+
+
+### 👨‍💻 Programming Languages
+
+<p> 
+    <a>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    </a>
+    <a>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+    </a>
+    
+</p>
+    
+
+
+
+### 🧰 Frameworks & Libraries
+
+<p>
+    <a>
+    <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-%23013243.svg?logo=NumPy&logoColor=white">
+    </a>
+    <a>
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-%23150458.svg?logo=Pandas&logoColor=white">
+    </a>
+    <a>
+    <img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-%23025E8C.svg?logo=matplotlib&logoColor=white">
+    </a>
+    <a>
+    <img alt="Seaborn" src="https://img.shields.io/badge/-seaborn-%23e0982c.svg?logo=seaborn&logoColor=white">
+    </a>
+    <a>
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white">
+    </a>
+    <a>
+    <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-%230C55A5.svg?logo=SciPy&logoColor=white">
+    </a>
+    <a>
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
+    </a>
+    <a>
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white">
+    </a>
+
+    
+</p>
+
+
+
+### 🗄️ Databases & Cloud Technologies
+
+<p>
+    <a>
+    <img alt="MsSQL" src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white">
+    </a>
+    <a>
+    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">
+    </a>
+    <a>
+    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+    </a>
+    <a>
+ 
+        
+</p>
+
+
+
+### 💻 Software & Tools
+
+<p>
+    <a>
+    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626.svg?style=flat&logo=Jupyter">
+    </a>
+    <a>
+    <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-276DC3?style=flat&logo=RStudio">
+    </a>
+    <a>
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+    </a>
+    <a>
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    </a>
+    <a>
+    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
+    </a>
+    <a>
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+    </a>
+    <a>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    </a>    
+    
+
+</br>    
+
+
+
+</br>
+
+<p align="center">
+<h2> My Github Stats    
+<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' />
+</h2>
+</p>
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kucukinci&show_icons=true&theme=radical&locale=en&layout=compact" alt="KUCUKINCI" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kucukinciN&show_icons=true&theme=dark&locale=en" alt="kucukinci" width="50%" /></p>
+
+ 
+
+
+<p align="center">
+<a>
+<img  
+  alt="My up-to-date Activity Graph" 
+  src="https://activity-graph.herokuapp.com/graph?username=kucukinci&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
+     width="500px"  />
+</a>
+</p>
