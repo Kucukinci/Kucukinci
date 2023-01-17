@@ -86,7 +86,7 @@
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white">
     </a>
     <a>
-    <img alt="PyTorch" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)">
+    <img alt="PyTorch" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
     </a>
      <a>
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)">
