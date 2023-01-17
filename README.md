@@ -1,4 +1,4 @@
-<img width="733" alt="Screen Shot 2023-01-17 at 10 01 03" src="https://user-images.githubusercontent.com/98330808/212831553-4ed73b36-981d-4499-8cde-ab3cef23b706.png">
+<img width="554" alt="Screen Shot 2023-01-17 at 10 10 57" src="https://user-images.githubusercontent.com/98330808/212832766-21f5f9c0-c50a-4986-a771-f4882b2d8348.png">
 
 <h1>
 <p align="center">Hi there, I'm Ahmet Sait Kucukinci
