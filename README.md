@@ -25,7 +25,6 @@
 
 
 - 🔭 I’m currently working on Data Analytics and Engineering , Machine Learning 
-- 🌱 I’m currently learning BigQuery , Python Streamlit , Linux/Shell/Bash Scripting and Cloud Technologies.
 - 💬 Ask me about anything , I will be happy if I can solve your problem but especially Python , SQL domain of Data Analytics technologies.
 - 📫 How to reach me: ahmetsaitkucukinci@gmail.com
 - 😄 Pronouns: Data Scientist, Machine Learning Engineer
