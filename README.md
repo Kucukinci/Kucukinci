@@ -1,7 +1,4 @@
-<div align="center">
-<img width="70%" height="400px" src="https://njbmagazine.com/wp-content/uploads/2021/06/Data_301985997-775x500.gif" />
-</div>
-<br>
+
 
 <h1>
 <p align="center">Hi there, I'm Ahmet Sait Kucukinci
@@ -143,29 +140,3 @@
 
 
 
-</br>
-
-<p align="center">
-<h2> My Github Stats    
-<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' />
-</h2>
-</p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kucukinci&show_icons=true&theme=radical&locale=en&layout=compact" alt="kucukinci" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kucukinciN&show_icons=true&theme=dark&locale=en" alt="kucukinci" width="50%" /></p>
-
- 
-
-
-<p align="center">
-<a>
-<img  
-  alt="My up-to-date Activity Graph" 
-  src="https://activity-graph.herokuapp.com/graph?username=kucukinci&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
-     width="500px"  />
-</a>
-</p>
